@@ -2,8 +2,8 @@
 
 Feature-rich Discord bot built with Node.js and discord.js.
 
-<a href>
-    <img src="https://top.gg/api/widget/881612238841077861.svg">
+<a href="https://top.gg/bot/881612238841077861">
+  <img src="https://top.gg/api/widget/881612238841077861.svg">
 </a>
 
 **Invite**  
