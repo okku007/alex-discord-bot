@@ -2,10 +2,6 @@
 
 Feature-rich Discord bot built with Node.js and discord.js.
 
-<a href="https://top.gg/bot/881612238841077861">
-  <img src="https://top.gg/api/widget/881612238841077861.svg">
-</a>
-
 **Invite**  
 [Add Alex Gun Dealer](https://discord.com/api/oauth2/authorize?client_id=881612238841077861&permissions=84992&scope=bot)
 
