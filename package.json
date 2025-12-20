@@ -1,0 +1,25 @@
+{
+  "name": "alex-gun-dealer",
+  "version": "1.0.0",
+  "description": "**Overview**",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/mokshdesai361/alex-discord-bot.git"
+  },
+  "author": "Moksh Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mokshdesai361/alex-discord-bot/issues"
+  },
+  "homepage": "https://gitlab.com/mokshdesai361/alex-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "nodemon": "^2.0.13",
+    "topgg-autoposter": "^2.0.0"
+  }
+}

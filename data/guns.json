@@ -1,0 +1,464 @@
+[
+  {
+    "name": "ak47",
+    "baseDamage": "33",
+    "baseFirerate": "55",
+    "baseAccuracy": "67"
+  },
+  {
+    "name": "50gs",
+    "baseDamage": "70",
+    "baseFirerate": "33",
+    "baseAccuracy": "88"
+  },
+  {
+    "name": "agr",
+    "baseDamage": "25",
+    "baseFirerate": "75",
+    "baseAccuracy": "37"
+  },
+  {
+    "name": "ak117",
+    "baseDamage": "25",
+    "baseFirerate": "77",
+    "baseAccuracy": "62"
+  },
+  {
+    "name": "arctic50",
+    "baseDamage": "85",
+    "baseFirerate": "31",
+    "baseAccuracy": "59"
+  },
+  {
+    "name": "asm10",
+    "baseDamage": "34",
+    "baseFirerate": "55",
+    "baseAccuracy": "72"
+  },
+  {
+    "name": "asval",
+    "baseDamage": "28",
+    "baseFirerate": "80",
+    "baseAccuracy": "44"
+  },
+  {
+    "name": "bk57",
+    "baseDamage": "27",
+    "baseFirerate": "66",
+    "baseAccuracy": "57"
+  },
+  {
+    "name": "by15",
+    "baseDamage": "35x8",
+    "baseFirerate": "29",
+    "baseAccuracy": "48"
+  },
+  {
+    "name": "chicom",
+    "baseDamage": "75",
+    "baseFirerate": "66",
+    "baseAccuracy": "60"
+  },
+  {
+    "name": "cr56",
+    "baseDamage": "25",
+    "baseFirerate": "71",
+    "baseAccuracy": "50"
+  },
+  {
+    "name": "chopper",
+    "baseDamage": "40",
+    "baseFirerate": "75",
+    "baseAccuracy": "43"
+  },
+  {
+    "name": "cordite",
+    "baseDamage": "24",
+    "baseFirerate": "80",
+    "baseAccuracy": "46"
+  },
+  {
+    "name": "crossbow",
+    "baseDamage": "80",
+    "baseFirerate": "26",
+    "baseAccuracy": "48"
+  },
+  {
+    "name": "dlq33",
+    "baseDamage": "80",
+    "baseFirerate": "28",
+    "baseAccuracy": "62"
+  },
+  {
+    "name": "drh",
+    "baseDamage": "32",
+    "baseFirerate": "57",
+    "baseAccuracy": "63"
+  },
+  {
+    "name": "echo",
+    "baseDamage": "21x8",
+    "baseFirerate": "35",
+    "baseAccuracy": "49"
+  },
+  {
+    "name": "fennec",
+    "baseDamage": "23",
+    "baseFirerate": "111",
+    "baseAccuracy": "29"
+  },
+  {
+    "name": "fhj",
+    "baseDamage": "90",
+    "baseFirerate": "10",
+    "baseAccuracy": "70"
+  },
+  {
+    "name": "fr",
+    "baseDamage": "25",
+    "baseFirerate": "67",
+    "baseAccuracy": "86"
+  },
+  {
+    "name": "gks",
+    "baseDamage": "28",
+    "baseFirerate": "60",
+    "baseAccuracy": "62"
+  },
+  {
+    "name": "swordfish",
+    "baseDamage": "24",
+    "baseFirerate": "88",
+    "baseAccuracy": "56"
+  },
+  {
+    "name": "hades",
+    "baseDamage": "29",
+    "baseFirerate": "65",
+    "baseAccuracy": "57"
+  },
+  {
+    "name": "hbra3",
+    "baseDamage": "26",
+    "baseFirerate": "70",
+    "baseAccuracy": "55"
+  },
+  {
+    "name": "hg40",
+    "baseDamage": "26",
+    "baseFirerate": "67",
+    "baseAccuracy": "59"
+  },
+  {
+    "name": "holger",
+    "baseDamage": "46",
+    "baseFirerate": "71",
+    "baseAccuracy": "53"
+  },
+  {
+    "name": "hs",
+    "baseDamage": "15x8",
+    "baseFirerate": "38",
+    "baseAccuracy": "40"
+  },
+  {
+    "name": "hso",
+    "baseDamage": "39x10",
+    "baseFirerate": "27",
+    "baseAccuracy": "45"
+  },
+  {
+    "name": "hvk",
+    "baseDamage": "23",
+    "baseFirerate": "71",
+    "baseAccuracy": "55"
+  },
+  {
+    "name": "icr",
+    "baseDamage": "26",
+    "baseFirerate": "60",
+    "baseAccuracy": "69"
+  },
+  {
+    "name": "j358",
+    "baseDamage": "60",
+    "baseFirerate": "38",
+    "baseAccuracy": "78"
+  },
+  {
+    "name": "kilo",
+    "baseDamage": "85",
+    "baseFirerate": "28",
+    "baseAccuracy": "59"
+  },
+  {
+    "name": "kn",
+    "baseDamage": "26",
+    "baseFirerate": "63",
+    "baseAccuracy": "55"
+  },
+  {
+    "name": "krm",
+    "baseDamage": "36x8",
+    "baseFirerate": "28",
+    "baseAccuracy": "51"
+  },
+  {
+    "name": "lk",
+    "baseDamage": "26",
+    "baseFirerate": "63",
+    "baseAccuracy": "61"
+  },
+  {
+    "name": "locus",
+    "baseDamage": "84",
+    "baseFirerate": "28",
+    "baseAccuracy": "70"
+  },
+  {
+    "name": "m4",
+    "baseDamage": "24",
+    "baseFirerate": "68",
+    "baseAccuracy": "59"
+  },
+  {
+    "name": "m4lmg",
+    "baseDamage": "46",
+    "baseFirerate": "63",
+    "baseAccuracy": "61"
+  },
+  {
+    "name": "m13",
+    "baseDamage": "24",
+    "baseFirerate": "88",
+    "baseAccuracy": "56"
+  },
+  {
+    "name": "m16",
+    "baseDamage": "30",
+    "baseFirerate": "48",
+    "baseAccuracy": "81"
+  },
+  {
+    "name": "m21",
+    "baseDamage": "91",
+    "baseFirerate": "35",
+    "baseAccuracy": "59"
+  },
+  {
+    "name": "manowar",
+    "baseDamage": "37",
+    "baseFirerate": "50",
+    "baseAccuracy": "69"
+  },
+  {
+    "name": "mk2",
+    "baseDamage": "80",
+    "baseFirerate": "28",
+    "baseAccuracy": "54"
+  },
+  {
+    "name": "msmc",
+    "baseDamage": "25",
+    "baseFirerate": "92",
+    "baseAccuracy": "37"
+  },
+  {
+    "name": "mw11",
+    "baseDamage": "26",
+    "baseFirerate": "44",
+    "baseAccuracy": "62"
+  },
+  {
+    "name": "mx9",
+    "baseDamage": "30",
+    "baseFirerate": "86",
+    "baseAccuracy": "45"
+  },
+  {
+    "name": "pdw",
+    "baseDamage": "27",
+    "baseFirerate": "75",
+    "baseAccuracy": "49"
+  },
+  {
+    "name": "peacekeeper",
+    "baseDamage": "26",
+    "baseFirerate": "65",
+    "baseAccuracy": "58"
+  },
+  {
+    "name": "pp19",
+    "baseDamage": "26",
+    "baseFirerate": "65",
+    "baseAccuracy": "62"
+  },
+  {
+    "name": "qq9",
+    "baseDamage": "25",
+    "baseFirerate": "83",
+    "baseAccuracy": "40"
+  },
+  {
+    "name": "r90",
+    "baseDamage": "17x12",
+    "baseFirerate": "34",
+    "baseAccuracy": "49"
+  },
+  {
+    "name": "razorback",
+    "baseDamage": "30",
+    "baseFirerate": "63",
+    "baseAccuracy": "60"
+  },
+  {
+    "name": "rpd",
+    "baseDamage": "41",
+    "baseFirerate": "66",
+    "baseAccuracy": "61"
+  },
+  {
+    "name": "rus",
+    "baseDamage": "28",
+    "baseFirerate": "77",
+    "baseAccuracy": "51"
+  },
+  {
+    "name": "s36",
+    "baseDamage": "41",
+    "baseFirerate": "66",
+    "baseAccuracy": "61"
+  },
+  {
+    "name": "shorty",
+    "baseDamage": "28x8",
+    "baseFirerate": "34",
+    "baseAccuracy": "50"
+  },
+  {
+    "name": "sks",
+    "baseDamage": "60",
+    "baseFirerate": "43",
+    "baseAccuracy": "82"
+  },
+  {
+    "name": "smrs",
+    "baseDamage": "95",
+    "baseFirerate": "10",
+    "baseAccuracy": "70"
+  },
+  {
+    "name": "spr",
+    "baseDamage": "72",
+    "baseFirerate": "27",
+    "baseAccuracy": "63"
+  },
+  {
+    "name": "striker",
+    "baseDamage": "17x8",
+    "baseFirerate": "38",
+    "baseAccuracy": "49"
+  },
+  {
+    "name": "type25",
+    "baseDamage": "24",
+    "baseFirerate": "86",
+    "baseAccuracy": "49"
+  },
+  {
+    "name": "ul736",
+    "baseDamage": "40",
+    "baseFirerate": "62",
+    "baseAccuracy": "58"
+  },
+  {
+    "name": "xpr50",
+    "baseDamage": "55",
+    "baseFirerate": "37",
+    "baseAccuracy": "77"
+  },
+  {
+    "name": "qxr",
+    "baseDamage": "38",
+    "baseFirerate": "80",
+    "baseAccuracy": "62"
+  },
+  {
+    "name": "cbr",
+    "baseDamage": "24",
+    "baseFirerate": "80",
+    "baseAccuracy": "43"
+  },
+  {
+    "name": "svd",
+    "baseDamage": "80",
+    "baseFirerate": "34",
+    "baseAccuracy": "59"
+  },
+  {
+    "name": "ppsh",
+    "baseDamage": "23",
+    "baseFirerate": "82",
+    "baseAccuracy": "42"
+  },
+  {
+    "name": "pkm",
+    "baseDamage": "32",
+    "baseFirerate": "63",
+    "baseAccuracy": "64"
+  },
+  {
+    "name": "kilo141",
+    "baseDamage": "29",
+    "baseFirerate": "68",
+    "baseAccuracy": "56"
+  },
+  {
+    "name": "jak12",
+    "baseDamage": "17x12",
+    "baseFirerate": "42",
+    "baseAccuracy": "49"
+  },
+  {
+    "name": "mac10",
+    "baseDamage": "24",
+    "baseFirerate": "120",
+    "baseAccuracy": "31"
+  },
+  {
+    "name": "thumper",
+    "baseDamage": "160",
+    "baseFirerate": "20",
+    "baseAccuracy": "50"
+  },
+  {
+    "name": "d13",
+    "baseDamage": "100",
+    "baseFirerate": "22",
+    "baseAccuracy": "60"
+  },
+  {
+    "name": "koshka",
+    "baseDamage": "90",
+    "baseFirerate": "27",
+    "baseAccuracy": "62"
+  },
+  {
+    "name": "rytecamr",
+    "baseDamage": "80",
+    "baseFirerate": "31",
+    "baseAccuracy": "62"
+  },
+  {
+    "name": "na45",
+    "baseDamage": "84",
+    "baseFirerate": "28",
+    "baseAccuracy": "70"
+  },
+  {
+    "name": "outlaw",
+    "baseDamage": "83",
+    "baseFirerate": "28",
+    "baseAccuracy": "68"
+  }
+]
