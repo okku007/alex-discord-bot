@@ -1,4 +1,4 @@
-# Alex Gun Dealer 🔫
+# Alex Gun Dealer
 
 Feature-rich Discord bot for Call of Duty Mobile weapon stats, built with Node.js and discord.js v14.
 
@@ -6,14 +6,14 @@ Feature-rich Discord bot for Call of Duty Mobile weapon stats, built with Node.j
     <img src="https://top.gg/api/widget/881612238841077861.svg">
 </a>
 
-## ✨ Features
+## Features
 
 - **Weapon Stats** - Get detailed stats for 80+ CODM weapons
 - **Tier List** - Current season weapon rankings
 - **Slash Commands** - Modern Discord slash command support
 - **Legacy Commands** - Traditional prefix commands still work
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -56,7 +56,7 @@ npm run deploy
 npm start
 ```
 
-## 📋 Commands
+## Commands
 
 ### Slash Commands
 | Command | Description |
@@ -70,7 +70,7 @@ npm start
 ### Legacy Prefix Commands
 Use `.` as prefix (e.g., `.gun ak47`, `.tierlist`)
 
-## ⚙️ Configuration
+## Configuration
 
 ### Environment Variables (.env)
 ```env
@@ -85,13 +85,13 @@ PREFIX=.
 - Embed Links
 - Read Message History
 
-## 🔗 Links
+## Links
 
 **[Invite Alex Gun Dealer](https://discord.com/api/oauth2/authorize?client_id=881612238841077861&permissions=84992&scope=bot%20applications.commands)**
 
-## 🤝 Contributing
+## Contributing
 
 Issues and PRs welcome for features, docs, or fixes.
 
 ---
-Made in India with ❤️
+Made in India with Love

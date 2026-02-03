@@ -21,7 +21,7 @@ function createGunListEmbed(page) {
     }).join('\n');
 
     return new Discord.EmbedBuilder()
-        .setTitle('🔫 Available Weapons')
+        .setTitle('Available Weapons')
         .setColor(Discord.Colors.Gold)
         .setDescription(gunList)
         .setFooter({ text: `Page ${page}/${totalPages} | Total: ${guns.length} guns | Use .gun <name> or /gun for stats` })

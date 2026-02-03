@@ -3,17 +3,6 @@ const Discord = require('discord.js');
 
 // Helper function to create the gun embed
 function createGunEmbed(gun) {
-    const categoryEmojis = {
-        'Assault Rifle': '🔫',
-        'SMG': '💨',
-        'Sniper': '🎯',
-        'LMG': '💥',
-        'Shotgun': '💣',
-        'Marksman': '🏹',
-        'Pistol': '🔫',
-        'Launcher': '🚀'
-    };
-
     const tierColors = {
         'SS': Discord.Colors.Gold,
         'S': Discord.Colors.Orange,
@@ -23,23 +12,22 @@ function createGunEmbed(gun) {
         'D': Discord.Colors.DarkGrey
     };
 
-    const emoji = categoryEmojis[gun.category] || '🔫';
     const color = tierColors[gun.tier] || Discord.Colors.Default;
 
     const embed = new Discord.EmbedBuilder()
-        .setTitle(`${emoji} ${gun.displayName || gun.name.toUpperCase()} Base Stats`)
+        .setTitle(`${gun.displayName || gun.name.toUpperCase()} Base Stats`)
         .setColor(color)
         .addFields(
-            { name: '📊 Damage', value: gun.baseDamage, inline: true },
-            { name: '⚡ Fire Rate', value: gun.baseFirerate, inline: true },
-            { name: '🎯 Accuracy', value: gun.baseAccuracy, inline: true }
+            { name: 'Damage', value: gun.baseDamage, inline: true },
+            { name: 'Fire Rate', value: gun.baseFirerate, inline: true },
+            { name: 'Accuracy', value: gun.baseAccuracy, inline: true }
         );
 
     if (gun.category) {
-        embed.addFields({ name: '📁 Category', value: gun.category, inline: true });
+        embed.addFields({ name: 'Category', value: gun.category, inline: true });
     }
     if (gun.tier) {
-        embed.addFields({ name: '🏆 Tier', value: gun.tier, inline: true });
+        embed.addFields({ name: 'Tier', value: gun.tier, inline: true });
     }
     if (gun.description) {
         embed.setDescription(gun.description);

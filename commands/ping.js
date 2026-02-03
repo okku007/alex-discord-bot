@@ -6,7 +6,7 @@ exports.run = (client, message, args) => {
     const apiLatency = Math.round(client.ws.ping);
 
     const embed = new Discord.EmbedBuilder()
-        .setTitle('🏓 Pong!')
+        .setTitle('Pong!')
         .setColor(Discord.Colors.Green)
         .addFields(
             { name: 'Bot Latency', value: `${latency}ms`, inline: true },
@@ -23,12 +23,12 @@ exports.slashData = {
 };
 
 exports.execute = async (interaction) => {
-    const sent = await interaction.reply({ content: '🏓 Pinging...', fetchReply: true });
+    const sent = await interaction.reply({ content: 'Pinging...', fetchReply: true });
     const latency = sent.createdTimestamp - interaction.createdTimestamp;
     const apiLatency = Math.round(interaction.client.ws.ping);
 
     const embed = new Discord.EmbedBuilder()
-        .setTitle('🏓 Pong!')
+        .setTitle('Pong!')
         .setColor(Discord.Colors.Green)
         .addFields(
             { name: 'Bot Latency', value: `${latency}ms`, inline: true },

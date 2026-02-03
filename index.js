@@ -80,8 +80,8 @@ client.on(Events.InteractionCreate, async interaction => {
 
 // Set activity on ready
 client.on("ready", () => {
-    console.log(`✅ ${client.user.tag} is online!`);
-    console.log(`📊 Serving ${client.guilds.cache.size} servers`);
+    console.log(`${client.user.tag} is online!`);
+    console.log(`Serving ${client.guilds.cache.size} servers`);
     client.user.setActivity("/gun or .help", { type: ActivityType.Watching });
 });
 
