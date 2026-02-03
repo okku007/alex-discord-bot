@@ -1,0 +1,32 @@
+{
+  "name": "alex-gun-dealer",
+  "version": "2.0.0",
+  "description": "CODM weapon stats Discord bot with slash commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "deploy": "node deploy-commands.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/mokshdesai361/alex-discord-bot.git"
+  },
+  "author": "Moksh Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mokshdesai361/alex-discord-bot/issues"
+  },
+  "homepage": "https://gitlab.com/mokshdesai361/alex-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

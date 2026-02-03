@@ -1,0 +1,772 @@
+[
+  {
+    "name": "ak47",
+    "displayName": "AK-47",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "33",
+    "baseFirerate": "55",
+    "baseAccuracy": "67",
+    "description": "Legendary assault rifle with high damage and moderate recoil. A reliable choice for all skill levels."
+  },
+  {
+    "name": "50gs",
+    "displayName": ".50 GS",
+    "category": "Pistol",
+    "tier": "B",
+    "baseDamage": "70",
+    "baseFirerate": "33",
+    "baseAccuracy": "88",
+    "description": "High-powered pistol with devastating stopping power."
+  },
+  {
+    "name": "agr",
+    "displayName": "AGR 556",
+    "category": "SMG",
+    "tier": "B",
+    "baseDamage": "25",
+    "baseFirerate": "75",
+    "baseAccuracy": "37",
+    "description": "Versatile SMG that can be converted to an assault rifle."
+  },
+  {
+    "name": "ak117",
+    "displayName": "AK117",
+    "category": "Assault Rifle",
+    "tier": "S",
+    "baseDamage": "25",
+    "baseFirerate": "77",
+    "baseAccuracy": "62",
+    "description": "High fire rate assault rifle with excellent mobility."
+  },
+  {
+    "name": "arctic50",
+    "displayName": "Arctic .50",
+    "category": "Sniper",
+    "tier": "A",
+    "baseDamage": "85",
+    "baseFirerate": "31",
+    "baseAccuracy": "59",
+    "description": "Semi-automatic sniper rifle with fast follow-up shots."
+  },
+  {
+    "name": "asm10",
+    "displayName": "ASM10",
+    "category": "Assault Rifle",
+    "tier": "S",
+    "baseDamage": "34",
+    "baseFirerate": "55",
+    "baseAccuracy": "72",
+    "description": "High damage assault rifle with excellent range."
+  },
+  {
+    "name": "asval",
+    "displayName": "AS VAL",
+    "category": "Assault Rifle",
+    "tier": "S",
+    "baseDamage": "28",
+    "baseFirerate": "80",
+    "baseAccuracy": "44",
+    "description": "Integrated suppressor with high fire rate. Silent but deadly."
+  },
+  {
+    "name": "bk57",
+    "displayName": "BK57",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "27",
+    "baseFirerate": "66",
+    "baseAccuracy": "57",
+    "description": "Balanced assault rifle with good all-around performance."
+  },
+  {
+    "name": "by15",
+    "displayName": "BY15",
+    "category": "Shotgun",
+    "tier": "B",
+    "baseDamage": "35x8",
+    "baseFirerate": "29",
+    "baseAccuracy": "48",
+    "description": "Pump-action shotgun with high one-shot potential."
+  },
+  {
+    "name": "cbr",
+    "displayName": "CBR4",
+    "category": "SMG",
+    "tier": "SS",
+    "baseDamage": "24",
+    "baseFirerate": "80",
+    "baseAccuracy": "43",
+    "description": "Meta SMG with excellent range and stability."
+  },
+  {
+    "name": "chicom",
+    "displayName": "Chicom",
+    "category": "SMG",
+    "tier": "C",
+    "baseDamage": "75",
+    "baseFirerate": "66",
+    "baseAccuracy": "60",
+    "description": "Burst-fire SMG with high damage per burst."
+  },
+  {
+    "name": "cr56",
+    "displayName": "CR-56 AMAX",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "25",
+    "baseFirerate": "71",
+    "baseAccuracy": "50",
+    "description": "Hard-hitting AR with manageable recoil."
+  },
+  {
+    "name": "chopper",
+    "displayName": "Chopper",
+    "category": "LMG",
+    "tier": "A",
+    "baseDamage": "40",
+    "baseFirerate": "75",
+    "baseAccuracy": "43",
+    "description": "Heavy LMG with high fire rate and large magazine."
+  },
+  {
+    "name": "cordite",
+    "displayName": "Cordite",
+    "category": "SMG",
+    "tier": "A",
+    "baseDamage": "24",
+    "baseFirerate": "80",
+    "baseAccuracy": "46",
+    "description": "Zero recoil SMG with excellent stability."
+  },
+  {
+    "name": "crossbow",
+    "displayName": "Crossbow",
+    "category": "Marksman",
+    "tier": "B",
+    "baseDamage": "80",
+    "baseFirerate": "26",
+    "baseAccuracy": "48",
+    "description": "Silent one-shot weapon with explosive bolts."
+  },
+  {
+    "name": "dlq33",
+    "displayName": "DL Q33",
+    "category": "Sniper",
+    "tier": "SS",
+    "baseDamage": "80",
+    "baseFirerate": "28",
+    "baseAccuracy": "62",
+    "description": "Best bolt-action sniper. One-shot to upper body."
+  },
+  {
+    "name": "drh",
+    "displayName": "DR-H",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "32",
+    "baseFirerate": "57",
+    "baseAccuracy": "63",
+    "description": "High damage AR with OTM mag for 3-shot kills."
+  },
+  {
+    "name": "echo",
+    "displayName": "Echo",
+    "category": "Shotgun",
+    "tier": "C",
+    "baseDamage": "21x8",
+    "baseFirerate": "35",
+    "baseAccuracy": "49",
+    "description": "Full-auto shotgun with extended range."
+  },
+  {
+    "name": "fennec",
+    "displayName": "Fennec",
+    "category": "SMG",
+    "tier": "S",
+    "baseDamage": "23",
+    "baseFirerate": "111",
+    "baseAccuracy": "29",
+    "description": "Fastest firing SMG in the game. Shreds at close range."
+  },
+  {
+    "name": "fhj",
+    "displayName": "FHJ-18",
+    "category": "Launcher",
+    "tier": "B",
+    "baseDamage": "90",
+    "baseFirerate": "10",
+    "baseAccuracy": "70",
+    "description": "Lock-on launcher for destroying scorestreaks."
+  },
+  {
+    "name": "fr",
+    "displayName": "FR .556",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "25",
+    "baseFirerate": "67",
+    "baseAccuracy": "86",
+    "description": "Burst-fire AR with high accuracy."
+  },
+  {
+    "name": "gks",
+    "displayName": "GKS",
+    "category": "SMG",
+    "tier": "B",
+    "baseDamage": "28",
+    "baseFirerate": "60",
+    "baseAccuracy": "62",
+    "description": "Accurate SMG with 4-shot kill potential."
+  },
+  {
+    "name": "swordfish",
+    "displayName": "Swordfish",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "24",
+    "baseFirerate": "88",
+    "baseAccuracy": "56",
+    "description": "4-burst AR with lethal Halberd mag."
+  },
+  {
+    "name": "hades",
+    "displayName": "Hades",
+    "category": "LMG",
+    "tier": "B",
+    "baseDamage": "29",
+    "baseFirerate": "65",
+    "baseAccuracy": "57",
+    "description": "LMG with unique crossbar sighting feature."
+  },
+  {
+    "name": "hbra3",
+    "displayName": "HBRa3",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "26",
+    "baseFirerate": "70",
+    "baseAccuracy": "55",
+    "description": "Premium AR with balanced stats."
+  },
+  {
+    "name": "hg40",
+    "displayName": "HG 40",
+    "category": "SMG",
+    "tier": "B",
+    "baseDamage": "26",
+    "baseFirerate": "67",
+    "baseAccuracy": "59",
+    "description": "Classic SMG with good range."
+  },
+  {
+    "name": "holger",
+    "displayName": "Holger 26",
+    "category": "LMG",
+    "tier": "SS",
+    "baseDamage": "46",
+    "baseFirerate": "71",
+    "baseAccuracy": "53",
+    "description": "Meta LMG. Can be converted to AR with No Stock."
+  },
+  {
+    "name": "hs2126",
+    "displayName": "HS2126",
+    "category": "Shotgun",
+    "tier": "D",
+    "baseDamage": "15x8",
+    "baseFirerate": "38",
+    "baseAccuracy": "40",
+    "description": "Burst shotgun with weak damage output."
+  },
+  {
+    "name": "hso405",
+    "displayName": "HS0405",
+    "category": "Shotgun",
+    "tier": "A",
+    "baseDamage": "39x10",
+    "baseFirerate": "27",
+    "baseAccuracy": "45",
+    "description": "Pump shotgun with longest one-shot range."
+  },
+  {
+    "name": "hvk30",
+    "displayName": "HVK-30",
+    "category": "Assault Rifle",
+    "tier": "S",
+    "baseDamage": "23",
+    "baseFirerate": "71",
+    "baseAccuracy": "55",
+    "description": "Fast-firing AR with Large Caliber ammo option."
+  },
+  {
+    "name": "icr",
+    "displayName": "ICR-1",
+    "category": "Assault Rifle",
+    "tier": "S",
+    "baseDamage": "26",
+    "baseFirerate": "60",
+    "baseAccuracy": "69",
+    "description": "Zero recoil AR. Extremely beginner friendly."
+  },
+  {
+    "name": "j358",
+    "displayName": "J358",
+    "category": "Pistol",
+    "tier": "B",
+    "baseDamage": "60",
+    "baseFirerate": "38",
+    "baseAccuracy": "78",
+    "description": "Revolver with high damage per shot."
+  },
+  {
+    "name": "kilo",
+    "displayName": "Kilo Bolt-Action",
+    "category": "Marksman",
+    "tier": "B",
+    "baseDamage": "85",
+    "baseFirerate": "28",
+    "baseAccuracy": "59",
+    "description": "Marksman rifle with one-shot headshot potential."
+  },
+  {
+    "name": "kn44",
+    "displayName": "KN-44",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "26",
+    "baseFirerate": "63",
+    "baseAccuracy": "55",
+    "description": "Well-rounded AR with good damage range."
+  },
+  {
+    "name": "krm262",
+    "displayName": "KRM-262",
+    "category": "Shotgun",
+    "tier": "SS",
+    "baseDamage": "36x8",
+    "baseFirerate": "28",
+    "baseAccuracy": "51",
+    "description": "Best shotgun. Consistent one-shot kills."
+  },
+  {
+    "name": "lk24",
+    "displayName": "LK24",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "26",
+    "baseFirerate": "63",
+    "baseAccuracy": "61",
+    "description": "Easy to control AR with consistent performance."
+  },
+  {
+    "name": "locus",
+    "displayName": "Locus",
+    "category": "Sniper",
+    "tier": "S",
+    "baseDamage": "84",
+    "baseFirerate": "28",
+    "baseAccuracy": "70",
+    "description": "Fast ADS sniper. Popular for quickscoping."
+  },
+  {
+    "name": "m4",
+    "displayName": "M4",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "24",
+    "baseFirerate": "68",
+    "baseAccuracy": "59",
+    "description": "Versatile starter AR with low recoil."
+  },
+  {
+    "name": "m4lmg",
+    "displayName": "M4LMG",
+    "category": "LMG",
+    "tier": "A",
+    "baseDamage": "46",
+    "baseFirerate": "63",
+    "baseAccuracy": "61",
+    "description": "Accurate LMG with long range effectiveness."
+  },
+  {
+    "name": "m13",
+    "displayName": "M13",
+    "category": "Assault Rifle",
+    "tier": "SS",
+    "baseDamage": "24",
+    "baseFirerate": "88",
+    "baseAccuracy": "56",
+    "description": "Meta AR with insane fire rate and headshot multiplier."
+  },
+  {
+    "name": "m16",
+    "displayName": "M16",
+    "category": "Assault Rifle",
+    "tier": "C",
+    "baseDamage": "30",
+    "baseFirerate": "48",
+    "baseAccuracy": "81",
+    "description": "Classic burst AR. Outclassed by other options."
+  },
+  {
+    "name": "m21",
+    "displayName": "M21 EBR",
+    "category": "Sniper",
+    "tier": "D",
+    "baseDamage": "91",
+    "baseFirerate": "35",
+    "baseAccuracy": "59",
+    "description": "Semi-auto sniper. Requires two shots to kill."
+  },
+  {
+    "name": "manowar",
+    "displayName": "Man-O-War",
+    "category": "Assault Rifle",
+    "tier": "A",
+    "baseDamage": "37",
+    "baseFirerate": "50",
+    "baseAccuracy": "69",
+    "description": "3-shot kill AR with slow fire rate."
+  },
+  {
+    "name": "mk2",
+    "displayName": "MK2",
+    "category": "Marksman",
+    "tier": "B",
+    "baseDamage": "80",
+    "baseFirerate": "28",
+    "baseAccuracy": "54",
+    "description": "Fast lever-action marksman rifle."
+  },
+  {
+    "name": "msmc",
+    "displayName": "MSMC",
+    "category": "SMG",
+    "tier": "B",
+    "baseDamage": "25",
+    "baseFirerate": "92",
+    "baseAccuracy": "37",
+    "description": "Fast TTK SMG with high recoil."
+  },
+  {
+    "name": "mw11",
+    "displayName": "MW11",
+    "category": "Pistol",
+    "tier": "C",
+    "baseDamage": "26",
+    "baseFirerate": "44",
+    "baseAccuracy": "62",
+    "description": "Standard semi-auto pistol."
+  },
+  {
+    "name": "mx9",
+    "displayName": "MX9",
+    "category": "SMG",
+    "tier": "A",
+    "baseDamage": "30",
+    "baseFirerate": "86",
+    "baseAccuracy": "45",
+    "description": "Former meta SMG. Still viable."
+  },
+  {
+    "name": "pdw57",
+    "displayName": "PDW-57",
+    "category": "SMG",
+    "tier": "C",
+    "baseDamage": "27",
+    "baseFirerate": "75",
+    "baseAccuracy": "49",
+    "description": "High capacity SMG with slow kill time."
+  },
+  {
+    "name": "peacekeeper",
+    "displayName": "Peacekeeper MK2",
+    "category": "Assault Rifle",
+    "tier": "S",
+    "baseDamage": "26",
+    "baseFirerate": "65",
+    "baseAccuracy": "58",
+    "description": "Hybrid AR/SMG with Task Force barrel."
+  },
+  {
+    "name": "pp19",
+    "displayName": "PP19 Bizon",
+    "category": "SMG",
+    "tier": "S",
+    "baseDamage": "26",
+    "baseFirerate": "65",
+    "baseAccuracy": "62",
+    "description": "64-round mag SMG with great mobility."
+  },
+  {
+    "name": "qq9",
+    "displayName": "QQ9",
+    "category": "SMG",
+    "tier": "S",
+    "baseDamage": "25",
+    "baseFirerate": "83",
+    "baseAccuracy": "40",
+    "description": "High skill ceiling SMG. Melts at close range."
+  },
+  {
+    "name": "r90",
+    "displayName": "R9-0",
+    "category": "Shotgun",
+    "tier": "S",
+    "baseDamage": "17x12",
+    "baseFirerate": "34",
+    "baseAccuracy": "49",
+    "description": "Double-barrel pump shotgun. Two quick shots."
+  },
+  {
+    "name": "razorback",
+    "displayName": "Razorback",
+    "category": "SMG",
+    "tier": "A",
+    "baseDamage": "30",
+    "baseFirerate": "63",
+    "baseAccuracy": "60",
+    "description": "Long range SMG with AR-like damage."
+  },
+  {
+    "name": "rpd",
+    "displayName": "RPD",
+    "category": "LMG",
+    "tier": "SS",
+    "baseDamage": "41",
+    "baseFirerate": "66",
+    "baseAccuracy": "61",
+    "description": "Meta LMG with excellent TTK and range."
+  },
+  {
+    "name": "rus",
+    "displayName": "RUS-79U",
+    "category": "SMG",
+    "tier": "S",
+    "baseDamage": "28",
+    "baseFirerate": "77",
+    "baseAccuracy": "51",
+    "description": "Versatile SMG with good accuracy."
+  },
+  {
+    "name": "s36",
+    "displayName": "S36",
+    "category": "LMG",
+    "tier": "C",
+    "baseDamage": "41",
+    "baseFirerate": "66",
+    "baseAccuracy": "61",
+    "description": "Former meta LMG. Still has good stats."
+  },
+  {
+    "name": "shorty",
+    "displayName": "Shorty",
+    "category": "Pistol",
+    "tier": "B",
+    "baseDamage": "28x8",
+    "baseFirerate": "34",
+    "baseAccuracy": "50",
+    "description": "Sawed-off secondary shotgun."
+  },
+  {
+    "name": "sks",
+    "displayName": "SKS",
+    "category": "Marksman",
+    "tier": "SS",
+    "baseDamage": "60",
+    "baseFirerate": "43",
+    "baseAccuracy": "82",
+    "description": "Meta marksman rifle. Fast 2-shot kills."
+  },
+  {
+    "name": "smrs",
+    "displayName": "SMRS",
+    "category": "Launcher",
+    "tier": "B",
+    "baseDamage": "95",
+    "baseFirerate": "10",
+    "baseAccuracy": "70",
+    "description": "Free-fire rocket launcher for direct hits."
+  },
+  {
+    "name": "spr",
+    "displayName": "SP-R 208",
+    "category": "Marksman",
+    "tier": "A",
+    "baseDamage": "72",
+    "baseFirerate": "27",
+    "baseAccuracy": "63",
+    "description": "Bolt-action marksman with sniper-like damage."
+  },
+  {
+    "name": "striker",
+    "displayName": "Striker",
+    "category": "Shotgun",
+    "tier": "D",
+    "baseDamage": "17x8",
+    "baseFirerate": "38",
+    "baseAccuracy": "49",
+    "description": "Revolving shotgun. Weak and inconsistent."
+  },
+  {
+    "name": "type25",
+    "displayName": "Type 25",
+    "category": "Assault Rifle",
+    "tier": "SS",
+    "baseDamage": "24",
+    "baseFirerate": "86",
+    "baseAccuracy": "49",
+    "description": "Meta AR with very fast fire rate."
+  },
+  {
+    "name": "ul736",
+    "displayName": "UL736",
+    "category": "LMG",
+    "tier": "C",
+    "baseDamage": "40",
+    "baseFirerate": "62",
+    "baseAccuracy": "58",
+    "description": "Slow LMG outclassed by other options."
+  },
+  {
+    "name": "xpr50",
+    "displayName": "XPR-50",
+    "category": "Sniper",
+    "tier": "B",
+    "baseDamage": "55",
+    "baseFirerate": "37",
+    "baseAccuracy": "77",
+    "description": "Semi-auto sniper. Requires two shots."
+  },
+  {
+    "name": "qxr",
+    "displayName": "QXR",
+    "category": "SMG",
+    "tier": "S",
+    "baseDamage": "38",
+    "baseFirerate": "80",
+    "baseAccuracy": "62",
+    "description": "High damage SMG with good accuracy."
+  },
+  {
+    "name": "svd",
+    "displayName": "SVD",
+    "category": "Marksman",
+    "tier": "SS",
+    "baseDamage": "80",
+    "baseFirerate": "34",
+    "baseAccuracy": "59",
+    "description": "Meta marksman. One-shot to upper body."
+  },
+  {
+    "name": "ppsh41",
+    "displayName": "PPSh-41",
+    "category": "SMG",
+    "tier": "SS",
+    "baseDamage": "23",
+    "baseFirerate": "82",
+    "baseAccuracy": "42",
+    "description": "Meta SMG with 71-round drum mag."
+  },
+  {
+    "name": "pkm",
+    "displayName": "PKM",
+    "category": "LMG",
+    "tier": "SS",
+    "baseDamage": "32",
+    "baseFirerate": "63",
+    "baseAccuracy": "64",
+    "description": "Powerful LMG with great accuracy."
+  },
+  {
+    "name": "kilo141",
+    "displayName": "Kilo 141",
+    "category": "Assault Rifle",
+    "tier": "SS",
+    "baseDamage": "29",
+    "baseFirerate": "68",
+    "baseAccuracy": "56",
+    "description": "Meta AR with excellent all-around stats."
+  },
+  {
+    "name": "jak12",
+    "displayName": "JAK-12",
+    "category": "Shotgun",
+    "tier": "S",
+    "baseDamage": "17x12",
+    "baseFirerate": "42",
+    "baseAccuracy": "49",
+    "description": "Full-auto shotgun. Devastating up close."
+  },
+  {
+    "name": "mac10",
+    "displayName": "MAC-10",
+    "category": "SMG",
+    "tier": "SS",
+    "baseDamage": "24",
+    "baseFirerate": "120",
+    "baseAccuracy": "31",
+    "description": "Fastest firing SMG. Insane TTK at close range."
+  },
+  {
+    "name": "thumper",
+    "displayName": "Thumper",
+    "category": "Launcher",
+    "tier": "B",
+    "baseDamage": "160",
+    "baseFirerate": "20",
+    "baseAccuracy": "50",
+    "description": "Grenade launcher for area denial."
+  },
+  {
+    "name": "d13",
+    "displayName": "D13 Sector",
+    "category": "Launcher",
+    "tier": "C",
+    "baseDamage": "100",
+    "baseFirerate": "22",
+    "baseAccuracy": "60",
+    "description": "Disc launcher with bouncing projectiles."
+  },
+  {
+    "name": "koshka",
+    "displayName": "Koshka",
+    "category": "Sniper",
+    "tier": "A",
+    "baseDamage": "90",
+    "baseFirerate": "27",
+    "baseAccuracy": "62",
+    "description": "Fast bolt-action sniper alternative to Locus."
+  },
+  {
+    "name": "rytecamr",
+    "displayName": "Rytec AMR",
+    "category": "Sniper",
+    "tier": "A",
+    "baseDamage": "80",
+    "baseFirerate": "31",
+    "baseAccuracy": "62",
+    "description": "Semi-auto anti-material rifle with explosive rounds."
+  },
+  {
+    "name": "na45",
+    "displayName": "NA-45",
+    "category": "Sniper",
+    "tier": "D",
+    "baseDamage": "84",
+    "baseFirerate": "28",
+    "baseAccuracy": "70",
+    "description": "Two-shot explosive sniper. Annoying but weak."
+  },
+  {
+    "name": "outlaw",
+    "displayName": "Outlaw",
+    "category": "Sniper",
+    "tier": "A",
+    "baseDamage": "83",
+    "baseFirerate": "28",
+    "baseAccuracy": "68",
+    "description": "Fastest ADS sniper. Great for quickscopes."
+  }
+]
