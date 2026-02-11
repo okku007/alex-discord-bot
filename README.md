@@ -40,12 +40,6 @@ cp .env.example .env
 # Edit .env with your values
 ```
 
-**Option B: Using config.json**
-```bash
-cp example-config.json config.json
-# Edit config.json with your values
-```
-
 4. Deploy slash commands (first time only)
 ```bash
 npm run deploy
